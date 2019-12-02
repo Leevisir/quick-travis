@@ -1,2 +1,0 @@
-# quick-travis
-travis test
